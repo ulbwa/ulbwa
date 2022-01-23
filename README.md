@@ -31,6 +31,11 @@ Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelveg
 
 [Explore](https://t.me/fourone_bot)
 
+## TemporaryStorage
+A library for temporarily uploading files to one of the many supported free data storages. You can store data up to 15GB, the storage time depends on the file size.
+
+[Explore](https://github.com/ulbwazhine/TemporaryStorage)
+
 ## MUSIC BOT | Поиск музыки
 Similar [LosslessRobot](https://t.me/LosslessRobot) bot for downloading music. Uses the source code of LosslessRobot, but is limited in functionality to download only MP3s. Huge user base - more than 100 thousand people.
 
