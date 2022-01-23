@@ -8,6 +8,7 @@
 
 * [Telegram](https://ulbwa.github.io/go?to=telegram)
 * [Instagram](https://ulbwa.github.io/go?to=instagram)
+* [GitHub](https://ulbwa.github.io/go?to=github)
 * [Блог](https://ulbwa.github.io/go?to=blog)
 * [Кинопоиск](https://ulbwa.github.io/go?to=kinopoisk)
 * [Сотрудничество](https://ulbwa.github.io/go?to=partner)
