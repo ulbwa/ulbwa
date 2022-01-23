@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" style="border-radius: 50%;" width="150" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/favico.jpg" alt="favico.jpg">
-  <h1>ульба</h1>
+  <h1>ulbwa 🇷🇺</h1>
   <p><b>Quality is my middle name</b>. Bad is my first.</p>
 </div>
 
@@ -26,11 +26,12 @@ Free Telegram bot for downloading music in lossless and lossy codecs. The music 
 
 [Explore](https://t.me/LosslessRobot)
 
-## MUSIC BOT | Поиск музыки
-Similar LosslessRobot bot for downloading music. Uses the source code of LosslessRobot, but is limited in functionality to download only MP3s. Huge user base - more than 100 thousand people.
-[Explore](https://t.me/SaveMuzz_Bot)
-
 ## Four One
 Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelvegeco/) in the form of a Telegram bot. It is a text game with an adventure storyline. At the moment, the development of the bot is suspended.
 
 [Explore](https://t.me/fourone_bot)
+
+## MUSIC BOT | Поиск музыки
+Similar [LosslessRobot](https://t.me/LosslessRobot) bot for downloading music. Uses the source code of LosslessRobot, but is limited in functionality to download only MP3s. Huge user base - more than 100 thousand people.
+
+[Explore](https://t.me/SaveMuzz_Bot)
