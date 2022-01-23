@@ -1,38 +1,36 @@
 <div align="center">
   <img align="center" style="border-radius: 50%;" width="150" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/favico.jpg" alt="favico.jpg">
   <h1>ульба</h1>
-  <p><b>Качество - мое второе имя</b>. Плохое - первое.</p>
+  <p><b>Quality is my middle name</b>. Bad is my first.</p>
 </div>
 
-# Ссылки
+# Links
 
 * [Telegram](https://ulbwa.github.io/go?to=telegram)
 * [Instagram](https://ulbwa.github.io/go?to=instagram)
 * [GitHub](https://ulbwa.github.io/go?to=github)
-* [Блог](https://ulbwa.github.io/go?to=blog)
-* [Кинопоиск](https://ulbwa.github.io/go?to=kinopoisk)
-* [Сотрудничество](https://ulbwa.github.io/go?to=partner)
-* [Донат](https://ulbwa.github.io/go?to=donate)
+* [Blog](https://ulbwa.github.io/go?to=blog)
+* [KinoPoisk](https://ulbwa.github.io/go?to=kinopoisk)
+* [Partnership](https://ulbwa.github.io/go?to=partner)
+* [Donate](https://ulbwa.github.io/go?to=donate)
 
-# Проекты
+# Projects
 
 ## MockupEngineer
-Простой и удобный в использовании генератор макетов устройств. Поддерживает более 15-ти различных моделей, начиная от телефонов, заканчивая носимыми устройствами. Написан на языке программирования Python и не имеет графического интерфейса, однако поддается простому встраиванию в любой ресурс, будь то сайт или Telegram бот.
+Simple and easy to use device layout generator. Supports over 15 different models ranging from phones to wearables. Written in the Python programming language and does not have a graphical interface, however, it can be easily embedded into any resource, be it a website or a Telegram bot.
 
-[Перейти](https://github.com/ulbwazhine/MockupEngineer)
+[Explore](https://github.com/ulbwazhine/MockupEngineer)
 
 ## LosslessRobot
-Бесплатный Telegram бот для скачивания музыки в lossless и lossy кодеках. Музыку предоставляет Tidal по подписке Tidal Hi-Fi Plus, а метаданные и поисковую систему - Deezer. Проект развивается с 2020 года и активно набирает аудиторию, тем самым приносит коммерческие заказы и [пожертвования](https://ulbwa.github.io/go?to=donate).
+Free Telegram bot for downloading music in lossless and lossy codecs. The music is provided by Tidal under a Tidal Hi-Fi Plus subscription, metadata and search engine - Deezer. The project has been developing since 2020 and is actively gathering an audience, thereby bringing commercial orders and [donations](https://ulbwa.github.io/go?to=donate).
 
-[Перейти](https://t.me/LosslessRobot)
+[Explore](https://t.me/LosslessRobot)
 
 ## MUSIC BOT | Поиск музыки
-
-Аналогичный LosslessRobot бот для скачивания музыки. Использует исходный код LosslessRobot, но ограничен функционально для скачивания только MP3. Огромная база пользователей - более 100 тысяч человек.
-
-[Перейти](https://t.me/SaveMuzz_Bot)
+Similar LosslessRobot bot for downloading music. Uses the source code of LosslessRobot, but is limited in functionality to download only MP3s. Huge user base - more than 100 thousand people.
+[Explore](https://t.me/SaveMuzz_Bot)
 
 ## Four One
-Образовательный проект [Анастасии Сергеевны](https://www.instagram.com/nastelvegeco/) в виде Telegram бота. Представляет собой текстовую игру с приключенческим сюжетом. На данный момент развитие бота приостановлено.
+Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelvegeco/) in the form of a Telegram bot. It is a text game with an adventure storyline. At the moment, the development of the bot is suspended.
 
-[Перейти](https://t.me/fourone_bot)
+[Explore](https://t.me/fourone_bot)
