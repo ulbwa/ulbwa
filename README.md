@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" style="border-radius: 50%;" width="150" src="https://ulbwa.github.io/static/favico.jpg" alt="favico.jpg">
+  <img align="center" style="border-radius: 50%;" width="150" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/favico.jpg" alt="favico.jpg">
   <h1>ульба</h1>
   <p><b>Качество - мое второе имя</b>. Плохое - первое.</p>
 </div>
