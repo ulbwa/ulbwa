@@ -34,7 +34,7 @@
 ## TemporaryStorage
 Библиотека для временной загрузки файлов на один многих поддерживаемых бесплатных хранилищ данных. Можно хранить данные вплоть до 15GB, срок хранения зависит от размера файла.
 
-[Explore](https://github.com/ulbwazhine/TemporaryStorage)
+[Перейти](https://github.com/ulbwazhine/TemporaryStorage)
 
 ## MUSIC BOT | Поиск музыки
 Аналогичный [LosslessRobot](https://t.me/LosslessRobot) бот для скачивания музыки. Использует исходный код LosslessRobot, но ограничен функционально для скачивания только MP3. Огромная база пользователей - более 100 тысяч человек.
