@@ -28,7 +28,7 @@ Free Telegram bot for downloading music in lossless and lossy codecs. The music 
 [Explore](https://t.me/LosslessRobot)
 
 ## Four One
-Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelvegeco/) in the form of a Telegram bot. It is a text game with an adventure storyline. At the moment, the development of the bot is suspended.
+Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelvegeco/) in the form of a Telegram bot. It is a text game with an adventure storyline. This project was created by a small team consisting of two programmers, a screenwriter and an artist, where I participated as one of the developers. At the moment, the development of the bot is suspended.
 
 [Explore](https://t.me/fourone_bot)
 
