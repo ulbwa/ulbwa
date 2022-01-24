@@ -6,13 +6,13 @@
 
 # Ссылки
 
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/telegram.svg" height="24"/>](https://ulbwa.github.io/go?to=telegram)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/instagram.svg" height="24"/>](https://ulbwa.github.io/go?to=instagram)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/github.svg" height="24"/>](https://ulbwa.github.io/go?to=github)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/blog.svg" height="24"/>](https://ulbwa.github.io/go?to=blog)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/kinopoisk.svg" height="24"/>](https://ulbwa.github.io/go?to=kinopoisk)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/manager.svg" height="24"/>](https://ulbwa.github.io/go?to=manager)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/donate.svg" height="24"/>](https://ulbwa.github.io/go?to=donate)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/telegram.svg" height="36"/>](https://ulbwa.github.io/go?to=telegram)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/instagram.svg" height="36"/>](https://ulbwa.github.io/go?to=instagram)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/github.svg" height="36"/>](https://ulbwa.github.io/go?to=github)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/blog.svg" height="36"/>](https://ulbwa.github.io/go?to=blog)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/kinopoisk.svg" height="36"/>](https://ulbwa.github.io/go?to=kinopoisk)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/manager.svg" height="36"/>](https://ulbwa.github.io/go?to=manager)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/donate.svg" height="36"/>](https://ulbwa.github.io/go?to=donate)
 
 # Проекты
 Мой основной язык программирования - Python. Обычно я занимаюсь Backend разработкой и Telegram ботами. Здесь представлен некоторый список значимых для меня проектов.
