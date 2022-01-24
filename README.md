@@ -15,6 +15,7 @@
 * [Donate](https://ulbwa.github.io/go?to=donate)
 
 # Projects
+My main programming language is Python. I usually do Backend development and Telegram bots. Here is a list of projects that are significant to me.
 
 ## MockupEngineer
 Simple and easy to use device layout generator. Supports over 15 different models ranging from phones to wearables. Written in the Python programming language and does not have a graphical interface, however, it can be easily embedded into any resource, be it a website or a Telegram bot.
