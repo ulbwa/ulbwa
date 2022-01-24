@@ -19,11 +19,6 @@
 ## MockupEngineer
 Simple and easy to use device layout generator. Supports over 15 different models ranging from phones to wearables. Written in the Python programming language and does not have a graphical interface, however, it can be easily embedded into any resource, be it a website or a Telegram bot.
 
-<div align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/MockupEngineer/preview.png" alt="Результат работы MockupEngineer">
-  <p>MockupEngineer Preview.</p>
-</div>
-
 [Explore](https://github.com/ulbwazhine/MockupEngineer)
 
 ## LosslessRobot

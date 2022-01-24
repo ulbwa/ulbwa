@@ -19,11 +19,6 @@
 ## MockupEngineer
 Простой и удобный в использовании генератор макетов устройств. Поддерживает более 15-ти различных моделей, начиная от телефонов, заканчивая носимыми устройствами. Написан на языке программирования Python и не имеет графического интерфейса, однако поддается простому встраиванию в любой ресурс, будь то сайт или Telegram бот.
 
-<div align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/MockupEngineer/preview.png" alt="Результат работы MockupEngineer">
-  <p>Результат работы MockupEngineer.</p>
-</div>
-
 [Перейти](https://github.com/ulbwazhine/MockupEngineer)
 
 ## LosslessRobot
