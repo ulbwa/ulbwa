@@ -17,11 +17,12 @@
 # Проекты
 
 ## MockupEngineer
-![Apple iPhone 12 Pro Max Mockup](https://raw.githubusercontent.com/ulbwazhine/MockupEngineer/main/MockupEngineer/templates/iphone12promax/example.png) | ![Google Pixel 5 Mockup](https://raw.githubusercontent.com/ulbwazhine/MockupEngineer/main/MockupEngineer/templates/pixel5/example.png)
-:---: | :---:
-Apple iPhone 12 Pro Max Mockup | Google Pixel 5 Mockup
-
 Простой и удобный в использовании генератор макетов устройств. Поддерживает более 15-ти различных моделей, начиная от телефонов, заканчивая носимыми устройствами. Написан на языке программирования Python и не имеет графического интерфейса, однако поддается простому встраиванию в любой ресурс, будь то сайт или Telegram бот.
+
+<div align="center">
+  <img align="center" style="width:100%; max-width:600px;" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/MockupEngineer/preview.png" alt="Результат работы MockupEngineer">
+  <p>Результат работы MockupEngineer.</p>
+</div>
 
 [Перейти](https://github.com/ulbwazhine/MockupEngineer)
 
