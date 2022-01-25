@@ -6,13 +6,13 @@
 
 # Links
 
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/telegram.svg" height="30"/>](https://ulbwa.github.io/go?to=telegram)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/instagram.svg" height="30"/>](https://ulbwa.github.io/go?to=instagram)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/github.svg" height="30"/>](https://ulbwa.github.io/go?to=github)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/blog.svg" height="30"/>](https://ulbwa.github.io/go?to=blog)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/donate.svg" height="30"/>](https://ulbwa.github.io/go?to=donate)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/telegram.svg" height="30"/>](https://ulbwa.github.io/go?to=telegram)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/instagram.svg" height="30"/>](https://ulbwa.github.io/go?to=instagram)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/github.svg" height="30"/>](https://ulbwa.github.io/go?to=github)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/blog.svg" height="30"/>](https://ulbwa.github.io/go?to=blog)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/donate.svg" height="30"/>](https://ulbwa.github.io/go?to=donate)
 
 # Projects
 My main programming language is Python. I usually do Backend development and Telegram bots. Here is a list of projects that are significant to me.
