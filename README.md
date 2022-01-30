@@ -11,6 +11,7 @@
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/github.svg" height="30"/>](https://ulbwa.github.io/go?to=github)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/blog.svg" height="30"/>](https://ulbwa.github.io/go?to=blog)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/lastfm.svg" height="30"/>](https://ulbwa.github.io/go?to=lastfm)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/donate.svg" height="30"/>](https://ulbwa.github.io/go?to=donate)
 
