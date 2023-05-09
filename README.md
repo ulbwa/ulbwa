@@ -13,7 +13,6 @@
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/lastfm.svg" height="30"/>](https://ulbwa.github.io/go?to=lastfm)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/donate.svg" height="30"/>](https://ulbwa.github.io/go?to=donate)
 
 # Projects
 My main programming language is Python. I usually do Backend development and Telegram bots. Here is a list of projects that are significant to me.
@@ -24,7 +23,7 @@ Simple and easy to use device layout generator. Supports over 15 different model
 [Explore](https://github.com/ulbwazhine/MockupEngineer)
 
 ## LosslessRobot
-Free Telegram bot for downloading music in lossless and lossy codecs. The music is provided by Tidal under a Tidal Hi-Fi Plus subscription, metadata and search engine - Deezer. The project has been developing since 2020 and is actively gathering an audience, thereby bringing commercial orders and [donations](https://ulbwa.github.io/go?to=donate).
+Free Telegram bot for downloading music in lossless and lossy codecs. The music is provided by Tidal under a Tidal Hi-Fi Plus subscription, metadata and search engine - Deezer. The project has been developing since 2020 and is actively gathering an audience, thereby bringing commercial orders and donations.
 
 [Explore](https://t.me/LosslessRobot)
 
