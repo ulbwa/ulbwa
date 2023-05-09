@@ -13,7 +13,6 @@
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/lastfm.svg" height="30"/>](https://ulbwa.github.io/go?to=lastfm)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/donate.svg" height="30"/>](https://ulbwa.github.io/go?to=donate)
 
 # Проекты
 Мой основной язык программирования - Python. Обычно я занимаюсь Backend разработкой и Telegram ботами. Здесь представлен некоторый список значимых для меня проектов.
@@ -24,7 +23,7 @@
 [Перейти](https://github.com/ulbwazhine/MockupEngineer)
 
 ## LosslessRobot
-Бесплатный Telegram бот для скачивания музыки в lossless и lossy кодеках. Музыку предоставляет Tidal по подписке Tidal Hi-Fi Plus, а метаданные и поисковую систему - Deezer. Проект развивается с 2020 года и активно набирает аудиторию, тем самым приносит коммерческие заказы и [пожертвования](https://ulbwa.github.io/go?to=donate).
+Бесплатный Telegram бот для скачивания музыки в lossless и lossy кодеках. Музыку предоставляет Tidal по подписке Tidal Hi-Fi Plus, а метаданные и поисковую систему - Deezer. Проект развивается с 2020 года и активно набирает аудиторию, тем самым приносит коммерческие заказы и пожертвования.
 
 [Перейти](https://t.me/LosslessRobot)
 
