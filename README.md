@@ -1,43 +1,25 @@
 <div align="center">
   <img align="center" style="border-radius: 50%;" width="150" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/favico.jpg" alt="favico.jpg">
-  <h1>ulbwa 🇷🇺</h1>
-  <p><b>Quality is my middle name</b>. Bad is my first.</p>
+  <h1>ulbwa</h1>
+  <p>Python backend developer with 4 years of experience in developing RestAPIs and Telegram bots.</p>
 </div>
 
-# Links
+## Links
 
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/telegram.svg" height="30"/>](https://ulbwa.github.io/go?to=telegram)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/instagram.svg" height="30"/>](https://ulbwa.github.io/go?to=instagram)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/github.svg" height="30"/>](https://ulbwa.github.io/go?to=github)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/blog.svg" height="30"/>](https://ulbwa.github.io/go?to=blog)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinopoisk.svg" height="30"/>](https://ulbwa.github.io/go?to=kinopoisk)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/kinorium.svg" height="30"/>](https://ulbwa.github.io/go?to=kinorium)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/lastfm.svg" height="30"/>](https://ulbwa.github.io/go?to=lastfm)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/steam.svg" height="30"/>](https://ulbwa.github.io/go?to=steam)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/egs.svg" height="30"/>](https://ulbwa.github.io/go?to=egs)
+[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/psn.svg" height="30"/>](https://ulbwa.github.io/go?to=psn)
 
-# Projects
-My main programming language is Python. I usually do Backend development and Telegram bots. Here is a list of projects that are significant to me.
+## Overview
 
-## MockupEngineer
-Simple and easy to use device layout generator. Supports over 15 different models ranging from phones to wearables. Written in the Python programming language and does not have a graphical interface, however, it can be easily embedded into any resource, be it a website or a Telegram bot.
+I specialize in backend development using Python, applying cutting-edge technologies and frameworks. My focus is on achieving maximum performance, scalability, and system resilience. My experience includes the use of tools such as `FastAPI`, `Django`, `Aiogram`, `SQLAlchemy`, and `PostgreSQL`, as well as the application of asynchronous programming, multithreading, and microservices architecture.
 
-[Explore](https://github.com/ulbwazhine/MockupEngineer)
+## Achievements
 
-## LosslessRobot
-Free Telegram bot for downloading music in lossless and lossy codecs. The music is provided by Tidal under a Tidal Hi-Fi Plus subscription, metadata and search engine - Deezer. The project has been developing since 2020 and is actively gathering an audience, thereby bringing commercial orders and donations.
-
-[Explore](https://t.me/LosslessRobot)
-
-## Four One
-Educational project of [Anastasia Sergeevna](https://www.instagram.com/nastelvegeco/) in the form of a Telegram bot. It is a text game with an adventure storyline. This project was created by a small team consisting of two programmers, a screenwriter and an artist, where I participated as one of the developers. At the moment, the development of the bot is suspended.
-
-[Explore](https://t.me/fourone_bot)
-
-## TemporaryStorage
-A library for temporarily uploading files to one of the many supported free data storages. You can store data up to 15GB, the storage time depends on the file size.
-
-[Explore](https://github.com/ulbwazhine/TemporaryStorage)
-
-## MUSIC BOT | Поиск музыки
-Similar [LosslessRobot](https://t.me/LosslessRobot) bot for downloading music. Uses the source code of LosslessRobot, but is limited in functionality to download only MP3s. Huge user base - more than 100 thousand people.
-
-[Explore](https://t.me/SaveMuzz_Bot)
+My projects successfully handle high loads, supporting over 100,000 active users daily. This is achieved through optimized code, scalable architecture, and the use of advanced asynchronous and parallel programming technologies. I have worked on projects with various goals, including content management and interaction with external APIs.
