@@ -14,7 +14,7 @@
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/manager.svg" height="30"/>](https://ulbwa.github.io/go?to=manager)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/steam.svg" height="30"/>](https://ulbwa.github.io/go?to=steam)
 [<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/egs.svg" height="30"/>](https://ulbwa.github.io/go?to=egs)
-[<img src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/psn.svg" height="30"/>](https://ulbwa.github.io/go?to=psn)
+<img onclick="alert('nickname: @wulbwa')" src="https://raw.githubusercontent.com/ulbwa/ulbwa/main/static/badges/psn.svg" height="30"/>
 
 ## Overview
 
